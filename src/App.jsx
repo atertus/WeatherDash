@@ -1,7 +1,7 @@
 import './App.css';
 import React, { useState, useEffect } from 'react';
 import { Routes, Route } from 'react-router-dom';
-import Header from './components/Header';
+import Header from './components/header';
 import Menu from './components/Menu';
 import Dashboard from './pages/Dashboard';
 import About from './pages/About';
