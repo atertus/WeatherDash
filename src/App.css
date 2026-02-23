@@ -1,0 +1,47 @@
+.App {
+  font-family:Avenir, "Century Gothic", sans-serif;
+  font-weight:100; 
+  font-style:normal;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+  margin-bottom: 60px;
+}
+
+.App-sidebar{
+  height: 100%;
+  width: 250px;
+  position: fixed;
+  top: 0;
+  left:0;
+  overflow-x: hidden;
+  backdrop-filter: blur(1px);
+  background-color: rgba(255, 255, 255, 0.1);
+  padding-left: 20px;
+}
+.App-page {
+  top: 0;
+
+  padding-left:300px;
+
+}
+
+.App-row {
+  display: flex;
+  flex-direction: row;
+  gap: 10px 20px;
+  padding-right:40px;
+  align-items: center;
+
+}
+
+
+.container {
+  display: flex;
+  flex-direction: row wrap;
+  align-items: center; 
+  
+}

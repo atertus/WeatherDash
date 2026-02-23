@@ -1,0 +1,24 @@
+/* Insert CSS for Header Component */
+
+.Header {
+    display: flex;
+    flex-direction: row;
+    padding-top: 10px;
+}
+
+.Header-logo {
+    width: 40px;
+    height: 40px;
+    margin-right: 12px;
+}
+
+.Header-title {
+    color: white;
+    font-size: 18px;
+    margin: 0;
+    align-self: center;
+}
+
+.Header {
+    z-index: 5;
+}
