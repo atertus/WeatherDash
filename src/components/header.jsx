@@ -1,5 +1,5 @@
 import React from 'react'
-import './Header.css';
+import './header.css';
 
 const logoPng = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=';
 
@@ -11,5 +11,6 @@ const Header = () => {
     </div>
   );
 }
+
 
 export default Header;
