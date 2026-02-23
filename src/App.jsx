@@ -2,7 +2,7 @@ import './App.css';
 import React, { useState, useEffect } from 'react';
 import { Routes, Route } from 'react-router-dom';
 import Header from './components/header';
-import Menu from './components/Menu';
+import Menu from './components/menu';
 import Dashboard from './pages/Dashboard';
 import About from './pages/About';
 import Search from './components/Search';
