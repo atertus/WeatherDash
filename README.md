@@ -31,8 +31,6 @@ A modern weather forecasting app that displays 5-day forecasts, saves your favor
 - ⚠️ Data stored locally in browser (not synced across devices)
 - ⚠️ Google Maps and YouTube have API usage limits/costs
 
-## Project Structure
-
 
 ## Browser Compatibility
 
